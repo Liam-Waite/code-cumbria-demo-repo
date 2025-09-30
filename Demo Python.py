@@ -1,1 +1,1 @@
-Print ('Hello Code Cumbria')
+print ('Hello Code Cumbria')
