@@ -1,1 +1,1 @@
-Hello this is the first text file commited tot his demo repo for Code Cumbria
+Hello this is the first text file committed to this demo repo for Code Cumbria
